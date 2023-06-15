@@ -1,3 +1,7 @@
 body {background-color: aquamarine;}
 
-.cabeçalho { background-color: blueviolet;}
+header{ background-color: blueviolet;
+display: flex;
+justify-content: space-around;}
+
+.imagem{width: 15%;}
