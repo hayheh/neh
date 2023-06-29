@@ -1,4 +1,7 @@
-body {background-color: aquamarine;}
+body {background-color: aquamarine;
+margin: 0%;
+padding: 0;}
+
 
 header{ background-color: blueviolet;
 display: flex;
