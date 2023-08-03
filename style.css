@@ -1,4 +1,4 @@
- body {background-color: aquamarine;
+body {background-color: aquamarine;
     margin: 0%;
     padding: 0;}
     
@@ -9,10 +9,10 @@
     
     .imagem{width: 15%;}
 
-    .escoal{ display: flex;
+    .escola{ display: flex;
         justify-content: center;
         align-items: center;
         padding: 100px; 0;}
 
         .imagem-section{width: 30%;}
-        .escoala-conteudo{width: 30%;}
+        .imagem-escola{width: 30%;}
