@@ -7,7 +7,7 @@ body {background-color: aquamarine;
     display: flex;
     justify-content: space-around;}
     
-    .imagem{width: 15%;}
+    .imagem{width: 13%;}
 
     .escola{ display: flex;
         justify-content: center;
