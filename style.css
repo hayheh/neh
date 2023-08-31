@@ -1,18 +1,47 @@
-body {background-color: aquamarine;
-    margin: 0%;
+*{margin: 0 ;
     padding: 0;}
     
     
-    header{ background-color: blueviolet;
-    display: flex;
-    justify-content: space-around;}
+    body{font-family: 'Poppins', sans-serif;}
     
-    .imagem{width: 13%;}
-
-    .escola{ display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 100px; 0;}
-
-        .imagem-section{width: 30%;}
-        .imagem-escola{width: 30%;}
+    
+    .cabeçalho{background-color:rgb(42, 40, 40);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    font-size: small;}
+    
+    .lista-cabeçalho{align-items: center;}
+    
+    .imagem-cabeçalho{ width: 30%;}
+    
+    .lista-item{display: inline-block;
+    margin: 0 16px;}
+    
+    .escola{
+    background-image: linear-gradient(rgb(51, 50, 50),rgb(199, 194, 194));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    }
+    
+    .estudante { text-align: center;
+    align-items: center;}
+    
+    .imagem-pro{width: 40%;}
+    
+    .escola-conteudo{ width: 50%;}
+    
+    .titulo-escola{padding: 24px 0;}
+    
+    .estudante-imagem{ width: 50%;
+    align-items: center;
+    text-align: center;}
+    
+    .foto-todos{display: grid;
+    grid-template-columns: 40% 40% 40% 40% 40%;}
+    
+    .imagem-icone { width: 5%;}
