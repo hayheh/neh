@@ -1,4 +1,4 @@
-*{margin: 0 ;
+ *{margin: 0 ;
     padding: 0;}
     
     
@@ -15,7 +15,7 @@
     
     .lista-cabeçalho{align-items: center;}
     
-    .imagem-cabeçalho{ width: 30%;}
+    .imagem-cabeçalho{ width: 13%;}
     
     .lista-item{display: inline-block;
     margin: 0 16px;}
@@ -31,13 +31,13 @@
     .estudante { text-align: center;
     align-items: center;}
     
-    .imagem-pro{width: 40%;}
+    .imagem-pro{width: 16%;}
     
     .escola-conteudo{ width: 50%;}
     
     .titulo-escola{padding: 24px 0;}
     
-    .estudante-imagem{ width: 50%;
+    .estudante-imagem{ width: 60%;
     align-items: center;
     text-align: center;}
     
